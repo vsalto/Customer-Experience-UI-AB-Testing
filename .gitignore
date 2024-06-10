@@ -1,0 +1,5 @@
+﻿brainstorming/
+m2_venv/
+notebooks/.ipynb_checkpoints/
+data_for_tableau/
+*.in
