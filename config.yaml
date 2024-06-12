@@ -1,0 +1,16 @@
+data:
+  raw:
+    raw_1: "../data/raw/df_final_demo.txt"
+    raw_2: "../data/raw/df_final_experiment_clients.txt"
+    raw_3: "../data/raw/df_final_web_data_pt_1.txt"
+    raw_4: "../data/raw/df_final_web_data_pt_2.txt"
+  clean:
+    clean_1: "../data/clean/df_final_completed.csv"
+    clean_2: "../data/clean/df_final_completed_unique_visit_id.csv"
+    clean_3: "../data/clean/df_final_completed_unique_visit_id_only_fully_completed.csv"
+    clean_4: "../data/clean/KPI-completion_rate.csv"
+    clean_5: "../data/clean/KPI-completion-time.csv"
+    clean_6: "../data/clean/KPI-step-time.csv"
+    clean_7: "../data/clean/KPI-error-rate.csv"
+
+
