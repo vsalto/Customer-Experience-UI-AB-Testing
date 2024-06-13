@@ -1,0 +1,2 @@
+data/raw/*_web_data* filter=lfs diff=lfs merge=lfs -text
+data/clean/df_final_completed* filter=lfs diff=lfs merge=lfs -text
